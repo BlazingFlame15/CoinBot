@@ -12,6 +12,11 @@ import os
 detect = "null"
 mouse = Controller()
 
+# If you don't have tesseract executable in your PATH, include the following:
+# If you are on windows uncomment the line below and put the path to the tesseract OCR file (.exe) in the readme.md file (where you can download it).
+# pytesseract.pytesseract.tesseract_cmd = r'<full_path_to_your_tesseract_executable>'
+# Example tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract'
+
 #coinGameDetector
 def coinGameDetector():
     while(True):
