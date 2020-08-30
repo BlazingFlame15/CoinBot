@@ -17,3 +17,13 @@ Run the python command by running python3.7 AutoCoin0.0.1.py ( Or whatever versi
 # *Follow the instructions on line 16 for windows users.*
 # **
 # 
+
+Packages required;
+Pillow
+Time (Should be pre-installed.)
+Numpy
+Argparse
+opencv-python
+imutils
+pynput
+os (Should be pre-installed.)
