@@ -27,4 +27,4 @@ opencv-python
 imutils
 pynput
 os (Should be pre-installed.)
-pytesseract
+pytesseract.
